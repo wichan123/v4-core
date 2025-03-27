@@ -10,7 +10,7 @@ The contracts in this repo are in early stages - we are releasing the draft code
 ## Contributing
 
 If you’re interested in contributing please see our [contribution guidelines](./CONTRIBUTING.md)!
-
+wichan
 ## Whitepaper
 
 A more detailed description of Uniswap v4 Core can be found in the draft of the [Uniswap v4 Core Whitepaper](./docs/whitepaper-v4.pdf).
